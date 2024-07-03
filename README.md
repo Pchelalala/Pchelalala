@@ -16,8 +16,8 @@
 </div>
 
 ### About me
-- 🌱 I’m currently learning **Cyber Security** at Vilnius University
-- 📄 I have some working experience in **mobile development** and **sales managуment**
+- 🌱 I’m currently studying **Cyber Security** at Vilnius University
+- 📄 I have some working experience in **mobile development** and **sales management**
 - 🌍 I speak English, Ukrainian, Russian and a bit Lithuanian and German
 
 ---
