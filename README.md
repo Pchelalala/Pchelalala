@@ -12,6 +12,7 @@
 ### About me
 - 🌱 I’m currently studying **Cyber Security** at Vilnius University
 - 📄 I have some working experience in **mobile development** and **sales management**
+- 👩🏻‍💻 I am a python programming teacher at online school
 - 🌍 I speak English, Ukrainian, Russian and a bit Lithuanian and German
 
 ---
