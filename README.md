@@ -4,7 +4,7 @@
 </div>
 
 <div id="socials" align="center">
-    <a href="www.linkedin.com/in/liudmyla-pcheliakova-5127052a6">
+    <a href="https://www.linkedin.com/in/liudmyla-pcheliakova-5127052a6">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
